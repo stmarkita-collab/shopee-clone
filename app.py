@@ -218,7 +218,7 @@ def tampilkan_hacker_screen():
     ascii_art = r"""
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  < Happy Hacking! >                                      ║
+║  < Muke Kerbau Monyet! >                                      ║
 ║  ═══════════════════                                     ║
 ║          \   ^__^                                        ║
 ║           \  (oo)\_______                                ║
